@@ -1,11 +1,11 @@
 {
-        "https://github.com/Akshaidevopscc/jaffle_shop": {
+        "https://github.com/krishna-ullas/jaffle_shop": {
             "path": "/appz/home/airflow/dags/dbt/jaffle_shop",
             "branch": "main",
             "email": ["kullas@ecloudcontrol.com"],
             "group": "aiops"
         },
-        "https://github.com/Akshaidevopscc/airflow_dags": {
+        "https://github.com/krishna-ullas/airflow_dags": {
             "path": "/appz/home/airflow/dags/airflow_dags",
             "branch": "main",
             "email": ["kullas@ecloudcontrol.com"],
