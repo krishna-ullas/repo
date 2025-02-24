@@ -12,7 +12,7 @@
             "group": "aiops"
         },
         "https://github.com/krishna-ullas/ai_lab": {
-            "path": "/appz/home/airflow/dags/airflow_dags",
+            "path": "/appz/home/airflow/dags/dbt/ai_lab",
             "branch": "main",
             "email": ["kullas@ecloudcontrol.com"],
             "group": "aiops"
